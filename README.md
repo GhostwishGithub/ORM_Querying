@@ -1,2 +1,1 @@
-# ORM_Querying
-Day 16 Lab
+# DjangoQueryingLab_PY_Starter
